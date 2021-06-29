@@ -8,6 +8,7 @@ namespace AdditionalGitPractice3
         {
             Console.WriteLine("Hello Dave!");
             //made some changes here//
+            Console.WriteLine("What What");
         }
     }
 }
