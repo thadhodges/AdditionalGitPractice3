@@ -1,0 +1,15 @@
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\bin\Debug\net5.0\AdditionalGitPractice3.exe
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\bin\Debug\net5.0\AdditionalGitPractice3.deps.json
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\bin\Debug\net5.0\AdditionalGitPractice3.runtimeconfig.json
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\bin\Debug\net5.0\AdditionalGitPractice3.runtimeconfig.dev.json
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\bin\Debug\net5.0\AdditionalGitPractice3.dll
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\bin\Debug\net5.0\ref\AdditionalGitPractice3.dll
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\bin\Debug\net5.0\AdditionalGitPractice3.pdb
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\obj\Debug\net5.0\AdditionalGitPractice3.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\obj\Debug\net5.0\AdditionalGitPractice3.AssemblyInfoInputs.cache
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\obj\Debug\net5.0\AdditionalGitPractice3.AssemblyInfo.cs
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\obj\Debug\net5.0\AdditionalGitPractice3.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\obj\Debug\net5.0\AdditionalGitPractice3.dll
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\obj\Debug\net5.0\ref\AdditionalGitPractice3.dll
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\obj\Debug\net5.0\AdditionalGitPractice3.pdb
+C:\WORK\REPO\AdditionalGitPractice3\AdditionalGitPractice3\obj\Debug\net5.0\AdditionalGitPractice3.genruntimeconfig.cache
